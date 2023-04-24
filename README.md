@@ -1,1 +1,1 @@
-# Sign-language-Recognition
+# Sign-language-recognition
